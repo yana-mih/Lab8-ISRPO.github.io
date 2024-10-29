@@ -1,0 +1,32 @@
+{
+  "api/Common_Lab8.DateHelper.DateFormat.html": {
+    "href": "api/Common_Lab8.DateHelper.DateFormat.html",
+    "title": "Enum DateHelper.DateFormat | Lab8-Personal",
+    "keywords": "Enum DateHelper.DateFormat Namespace Common_Lab8 Assembly Common-Lab8.dll public enum DateHelper.DateFormat Fields DateAndTime = 1 DateOnly = 0 TimeOnly = 2"
+  },
+  "api/Common_Lab8.DateHelper.html": {
+    "href": "api/Common_Lab8.DateHelper.html",
+    "title": "Class DateHelper | Lab8-Personal",
+    "keywords": "Class DateHelper Namespace Common_Lab8 Assembly Common-Lab8.dll Класс работы с датами public class DateHelper Inheritance object DateHelper Inherited Members object.ToString() object.Equals(object) object.Equals(object, object) object.ReferenceEquals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() Remarks Данный класс содержит методы для максимально неудобной работы с датами Fields FisrtDate Поле первой даты public DateTime FisrtDate Field Value DateTime SecondDate Поле второй даты public DateTime SecondDate Field Value DateTime Methods ConvertingStringToDateTime(string) Метод для преобразования строки в объект DateTime. public static DateTime ConvertingStringToDateTime(string value) Parameters value string Строка, представляющая дату. Returns DateTime Дата, полученная из строки, иначе - исключение. Examples Демонстрация работы: DateHelper.ConvertingStringToDateTime(DateTime.Now); Exceptions ArgumentNullException Возникает, если передано пустое значение. FormatException Возникает при ошибке формата даты. Exception Возникает при общей ошибке преобразования строки в дату. See Also https://learn.microsoft.com/en-us/dotnet/api/system.datetime.parse?view=net-8.0 FormatDate(DateTime, string) Метод для форматирования даты в строку по разным форматам. public static string FormatDate(DateTime date, string format) Parameters date DateTime Дата для форматирования. format string Тип формата. Returns string Форматированная строка, представляющая собой дату, иначе - исключение. Examples Демонстрация работы: DateHelper.FormatDate(DateTime.Now, \"D\"); Exceptions ArgumentNullException Возникает, когда переданная дата пустая. ArgumentException Возникает, если тип формата пустой или дата имеет неверный формат. GetNumberOfDaysBetweenTwoDates() Метод для вычисления количества дней между двумя датами. public int GetNumberOfDaysBetweenTwoDates() Returns int Целое число дней между двумя датами, иначе - исключение. Examples Демонстрация работы: DateHelper dh = new(); dh.FirstDate = DateTime.Now; dh.SecondDate = DateTime.Now.AddYears(1); dh.GetNumberOfDaysBetweenTwoDates(); Remarks В качестве стартовой и конечной дат выступают поля класса : и https://learn.microsoft.com/en-us/dotnet/api/system.timespan.days?view=net-8.0 Exceptions ArgumentNullException Возникает, если хотя бы одна из дат не указана. ArgumentException Возникает, если стартовая дата больше конечной даты. GetNumberOfDaysBetweenTwoDates(DateTime, DateTime) Метод для вычисления количества дней между двумя датами. public static int GetNumberOfDaysBetweenTwoDates(DateTime firstDate, DateTime secondDate) Parameters firstDate DateTime Первая (стартовая) дата. secondDate DateTime Вторая (конечная) дата. Returns int Целое число дней между двумя датами, иначе - исключение. Examples Демонстрация работы: DateTime startDate = DateTime.Now; DateTime endDate = DateTime.Now.AddYears(1); GetNumberOfDaysBetweenTwoDates(startDate, endDate) Remarks В качестве параметров выступают даты, введённые пользователем. https://learn.microsoft.com/en-us/dotnet/api/system.timespan.days?view=net-8.0 Exceptions ArgumentNullException Возникает, если хотя бы одна из дат не указана. ArgumentException Возникает, если стартовая дата больше конечной. IsALeapYear(int) Метод, определяющий, является ли год високосным. public static bool IsALeapYear(int year) Parameters year int Год, введенный пользователем. Returns bool Истина/ложь, иначе - исключение. Examples Демонстрация работы: DateHelper.IsALeapYear(2005); Exceptions ArgumentOutOfRangeException Возникает, если год меньше единицы. See Also https://learn.microsoft.com/en-us/dotnet/api/system.datetime.isleapyear?view=net-8.0"
+  },
+  "api/Common_Lab8.html": {
+    "href": "api/Common_Lab8.html",
+    "title": "Namespace Common_Lab8 | Lab8-Personal",
+    "keywords": "Namespace Common_Lab8 Classes DateHelper Класс работы с датами Enums DateHelper.DateFormat"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | Lab8-Personal",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | Lab8-Personal",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | Lab8-Personal",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

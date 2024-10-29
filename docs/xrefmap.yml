@@ -1,0 +1,121 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Common_Lab8
+  name: Common_Lab8
+  href: api/Common_Lab8.html
+  commentId: N:Common_Lab8
+  fullName: Common_Lab8
+  nameWithType: Common_Lab8
+- uid: Common_Lab8.DateHelper
+  name: DateHelper
+  href: api/Common_Lab8.DateHelper.html
+  commentId: T:Common_Lab8.DateHelper
+  fullName: Common_Lab8.DateHelper
+  nameWithType: DateHelper
+- uid: Common_Lab8.DateHelper.ConvertingStringToDateTime(System.String)
+  name: ConvertingStringToDateTime(string)
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_ConvertingStringToDateTime_System_String_
+  commentId: M:Common_Lab8.DateHelper.ConvertingStringToDateTime(System.String)
+  name.vb: ConvertingStringToDateTime(String)
+  fullName: Common_Lab8.DateHelper.ConvertingStringToDateTime(string)
+  fullName.vb: Common_Lab8.DateHelper.ConvertingStringToDateTime(String)
+  nameWithType: DateHelper.ConvertingStringToDateTime(string)
+  nameWithType.vb: DateHelper.ConvertingStringToDateTime(String)
+- uid: Common_Lab8.DateHelper.ConvertingStringToDateTime*
+  name: ConvertingStringToDateTime
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_ConvertingStringToDateTime_
+  commentId: Overload:Common_Lab8.DateHelper.ConvertingStringToDateTime
+  isSpec: "True"
+  fullName: Common_Lab8.DateHelper.ConvertingStringToDateTime
+  nameWithType: DateHelper.ConvertingStringToDateTime
+- uid: Common_Lab8.DateHelper.DateFormat
+  name: DateHelper.DateFormat
+  href: api/Common_Lab8.DateHelper.DateFormat.html
+  commentId: T:Common_Lab8.DateHelper.DateFormat
+  fullName: Common_Lab8.DateHelper.DateFormat
+  nameWithType: DateHelper.DateFormat
+- uid: Common_Lab8.DateHelper.DateFormat.DateAndTime
+  name: DateAndTime
+  href: api/Common_Lab8.DateHelper.DateFormat.html#Common_Lab8_DateHelper_DateFormat_DateAndTime
+  commentId: F:Common_Lab8.DateHelper.DateFormat.DateAndTime
+  fullName: Common_Lab8.DateHelper.DateFormat.DateAndTime
+  nameWithType: DateHelper.DateFormat.DateAndTime
+- uid: Common_Lab8.DateHelper.DateFormat.DateOnly
+  name: DateOnly
+  href: api/Common_Lab8.DateHelper.DateFormat.html#Common_Lab8_DateHelper_DateFormat_DateOnly
+  commentId: F:Common_Lab8.DateHelper.DateFormat.DateOnly
+  fullName: Common_Lab8.DateHelper.DateFormat.DateOnly
+  nameWithType: DateHelper.DateFormat.DateOnly
+- uid: Common_Lab8.DateHelper.DateFormat.TimeOnly
+  name: TimeOnly
+  href: api/Common_Lab8.DateHelper.DateFormat.html#Common_Lab8_DateHelper_DateFormat_TimeOnly
+  commentId: F:Common_Lab8.DateHelper.DateFormat.TimeOnly
+  fullName: Common_Lab8.DateHelper.DateFormat.TimeOnly
+  nameWithType: DateHelper.DateFormat.TimeOnly
+- uid: Common_Lab8.DateHelper.FisrtDate
+  name: FisrtDate
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_FisrtDate
+  commentId: F:Common_Lab8.DateHelper.FisrtDate
+  fullName: Common_Lab8.DateHelper.FisrtDate
+  nameWithType: DateHelper.FisrtDate
+- uid: Common_Lab8.DateHelper.FormatDate(System.DateTime,System.String)
+  name: FormatDate(DateTime, string)
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_FormatDate_System_DateTime_System_String_
+  commentId: M:Common_Lab8.DateHelper.FormatDate(System.DateTime,System.String)
+  name.vb: FormatDate(Date, String)
+  fullName: Common_Lab8.DateHelper.FormatDate(System.DateTime, string)
+  fullName.vb: Common_Lab8.DateHelper.FormatDate(Date, String)
+  nameWithType: DateHelper.FormatDate(DateTime, string)
+  nameWithType.vb: DateHelper.FormatDate(Date, String)
+- uid: Common_Lab8.DateHelper.FormatDate*
+  name: FormatDate
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_FormatDate_
+  commentId: Overload:Common_Lab8.DateHelper.FormatDate
+  isSpec: "True"
+  fullName: Common_Lab8.DateHelper.FormatDate
+  nameWithType: DateHelper.FormatDate
+- uid: Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates
+  name: GetNumberOfDaysBetweenTwoDates()
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_GetNumberOfDaysBetweenTwoDates
+  commentId: M:Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates
+  fullName: Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates()
+  nameWithType: DateHelper.GetNumberOfDaysBetweenTwoDates()
+- uid: Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates(System.DateTime,System.DateTime)
+  name: GetNumberOfDaysBetweenTwoDates(DateTime, DateTime)
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_GetNumberOfDaysBetweenTwoDates_System_DateTime_System_DateTime_
+  commentId: M:Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates(System.DateTime,System.DateTime)
+  name.vb: GetNumberOfDaysBetweenTwoDates(Date, Date)
+  fullName: Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates(System.DateTime, System.DateTime)
+  fullName.vb: Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates(Date, Date)
+  nameWithType: DateHelper.GetNumberOfDaysBetweenTwoDates(DateTime, DateTime)
+  nameWithType.vb: DateHelper.GetNumberOfDaysBetweenTwoDates(Date, Date)
+- uid: Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates*
+  name: GetNumberOfDaysBetweenTwoDates
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_GetNumberOfDaysBetweenTwoDates_
+  commentId: Overload:Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates
+  isSpec: "True"
+  fullName: Common_Lab8.DateHelper.GetNumberOfDaysBetweenTwoDates
+  nameWithType: DateHelper.GetNumberOfDaysBetweenTwoDates
+- uid: Common_Lab8.DateHelper.IsALeapYear(System.Int32)
+  name: IsALeapYear(int)
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_IsALeapYear_System_Int32_
+  commentId: M:Common_Lab8.DateHelper.IsALeapYear(System.Int32)
+  name.vb: IsALeapYear(Integer)
+  fullName: Common_Lab8.DateHelper.IsALeapYear(int)
+  fullName.vb: Common_Lab8.DateHelper.IsALeapYear(Integer)
+  nameWithType: DateHelper.IsALeapYear(int)
+  nameWithType.vb: DateHelper.IsALeapYear(Integer)
+- uid: Common_Lab8.DateHelper.IsALeapYear*
+  name: IsALeapYear
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_IsALeapYear_
+  commentId: Overload:Common_Lab8.DateHelper.IsALeapYear
+  isSpec: "True"
+  fullName: Common_Lab8.DateHelper.IsALeapYear
+  nameWithType: DateHelper.IsALeapYear
+- uid: Common_Lab8.DateHelper.SecondDate
+  name: SecondDate
+  href: api/Common_Lab8.DateHelper.html#Common_Lab8_DateHelper_SecondDate
+  commentId: F:Common_Lab8.DateHelper.SecondDate
+  fullName: Common_Lab8.DateHelper.SecondDate
+  nameWithType: DateHelper.SecondDate
